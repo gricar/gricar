@@ -1,7 +1,10 @@
-- 👋 Hi, I’m Gabriel Rodrigues.
-- 👀 I’m interested in helping this community grow and connect the world.
-- 🌱 I’m currently learning React, JS, HTML & CSS. I wanna be a Full Stack Developer.
-- 💞️ I’m looking to collaborate in everything I can.
+<h3>Hey, I'm Gabriel Rodrigues! 👋</h3>
+
+<ul>
+  <li>👀 I’m interested in helping this community grow and connect the world.</li>
+  <li>🌱 I’m currently web development student at Trybe</li>
+  <li>:computer: React, JavaScript, Node</li>
+</ul>
 
 <div align="center">
   <a href="https://github.com/gricar">
