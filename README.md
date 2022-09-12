@@ -1,26 +1,32 @@
-<h3>Hey, I'm Gabriel Rodrigues! 👋</h3>
+## Hey, I'm Gabriel Rodrigues! 👋
 
-<ul>
-  <li>👀 I’m interested in helping this community grow and connect the world.</li>
-  <li>🌱 I’m currently web development student at Trybe</li>
-  <li>:computer: React, JavaScript, Node</li>
-</ul>
+👀 I’m interested in helping this community grow and connect the world.
+
+🌱 I’m currently web development student at Trybe.
+
+:computer: React, JavaScript, Node.
 
 <div align="center">
   <a href="https://github.com/gricar">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=gricar&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gricar&layout=compact&langs_count=7&theme=dark"/>
+  <img alt="GitHub Stats" height="170em" src="https://github-readme-stats.vercel.app/api?username=gricar&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img alt="GitHub Stats" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gricar&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Gabriel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
+  <img align="center" alt="Gabriel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">  
   <img align="center" alt="Gabriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
   <img align="center" alt="Gabriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
   <img align="center" alt="Gabriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Gabriel-Ts" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Gabriel-C-Sharp" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
+  <img align="center" alt="Gabriel-Dot-net" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-plain.svg">
+  <img align="center" alt="Gabriel-Node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg">
   <img align="center" alt="Gabriel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg">
-  <img align="center" alt="Gabriel-Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
-  <img align="center" alt="Gabriel-Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg">
-  <img align="center" alt="Gabriel-Slack" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original-wordmark.svg" />
+  <img align="center" alt="Gabriel-Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg">
+  <img align="center" alt="Gabriel-Jest" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg">
+  <img align="center" alt="Gabriel-MongoDB" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg">
+  <img align="center" alt="Gabriel-MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Gabriel-Heroku" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg"> 
 </div>
 
 ##
