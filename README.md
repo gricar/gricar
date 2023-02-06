@@ -2,9 +2,8 @@
 
 👀 I’m interested in helping this community grow and connect the world.
 
-🌱 I’m currently web development student at Trybe.
+🌱 I’m Full Stack Software Developer and Electrical Engineer.
 
-:computer: React, JavaScript, Node.
 
 <div align="center">
   <a href="https://github.com/gricar">
